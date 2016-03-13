@@ -7,7 +7,7 @@ import static java.util.concurrent.TimeUnit.SECONDS;
  */
 public class AutorizationPage {
 
-    //locators bu CSS
+    //locators by CSS
     public static final String LOGIN_INPUT ="#signin-email";
     public static final String PASSWORD_INPUT ="#signin-password";
     public static final String LOGIN_BUTTON =".submit.btn.primary-btn.flex-table-btn.js-submit";
